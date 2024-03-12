@@ -6,9 +6,12 @@ Comenzamos importando las bibliotecas necesarias para poder trabajar con nuestro
 ![image](https://github.com/aldoroman27/FastAPI/assets/148840055/4119b4d2-2e4a-4f82-9fb7-2dccda891be0)
 Creamos nuestras funciones que nos ayudarán a mostrar y capturar nombres y nos arrojará el valor en formato JSON.
 
-
 ![image](https://github.com/aldoroman27/FastAPI/assets/148840055/4dbea3d4-cc9b-4d12-bba2-ccae61528c84)
 Corremos nuestro localhost.
+
+
+![image](https://github.com/aldoroman27/FastAPI/assets/148840055/ee1f9b5a-c02e-4f86-8717-f5620455c89f)
+Nos regresa nuestra lista de nombres en formato JSON.
 
 ![image](https://github.com/aldoroman27/FastAPI/assets/148840055/ebdb3ad1-ecb6-40fa-b177-4000b7f61034)
 Introducimos nuestro request, agregando como persona a 'Amewing'
