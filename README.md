@@ -10,7 +10,8 @@ Creamos nuestras funciones que nos ayudarán a mostrar y capturar nombres y nos 
 Corremos nuestro localhost.
 
 
-![image](https://github.com/aldoroman27/FastAPI/assets/148840055/ee1f9b5a-c02e-4f86-8717-f5620455c89f)
+![image](https://github.com/aldoroman27/FastAPI/assets/148840055/522d3e1e-9a56-4046-be6f-9031726e5f83)
+
 Nos regresa nuestra lista de nombres en formato JSON.
 
 ![image](https://github.com/aldoroman27/FastAPI/assets/148840055/ebdb3ad1-ecb6-40fa-b177-4000b7f61034)
