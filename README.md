@@ -17,5 +17,7 @@ Introducimos nuestro request, agregando como persona a 'Amewing'
 Como podemos ver obtenemos una respuesta positiva.
 
 
+![image](https://github.com/aldoroman27/FastAPI/assets/148840055/350a2641-c6ec-42ee-ab9b-d0ccbd77f53f)
+Comprobamos en nuestra aplicación.
 
 
